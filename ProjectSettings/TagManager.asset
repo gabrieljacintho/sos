@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Enemy
+  - Life
+  - Managers
+  - ForegroundCanvas
+  - Damage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Players
+  - PlayerDamage
+  - Enemies
+  - EnemyDamage
+  - Powerups
+  - PowerupTrigger
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundCanvas
+    uniqueID: 649305773
+    locked: 0
+  - name: BackgroundCanvas
+    uniqueID: 1250649339
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForegroundTilemap
+    uniqueID: 3423491307
+    locked: 0
+  - name: ForegroundCanvas
+    uniqueID: 1780283989
+    locked: 0
