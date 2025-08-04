@@ -1,6 +1,6 @@
 # SOS
 
-A 2D shooter multiplayer game prototype.
+2D shooter multiplayer game prototype developed with Unity Engine, C# and Photon Engine.
 
 ![Screenshot_1](https://github.com/gabrieljacintho/sos/assets/64656746/432820f9-27c4-42fa-8a34-d18c5529f252)
 ![Screenshot_2](https://github.com/gabrieljacintho/sos/assets/64656746/7e493ecf-1aae-4d1e-bf59-dc5e3dae0214)
